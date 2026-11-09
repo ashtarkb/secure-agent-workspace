@@ -1,5 +1,1 @@
-users:
-- name: perf001
-  pruneOnRemove: true
-  webSearch:
-    enabled: false
+users: []
