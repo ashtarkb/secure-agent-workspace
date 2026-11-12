@@ -1,1 +1,25 @@
-users: []
+users:
+- name: perf002
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf003
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf004
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf005
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
