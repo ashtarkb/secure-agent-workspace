@@ -1,1 +1,193 @@
-users: []
+users:
+- name: perf002
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf003
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf004
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf005
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf006
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf007
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf008
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf009
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf010
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf011
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf012
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf013
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf014
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf015
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf016
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf017
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf018
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf019
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf020
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf021
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf022
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf023
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf024
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf025
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf026
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf027
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf028
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf029
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf030
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf031
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf032
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
+- name: perf033
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
