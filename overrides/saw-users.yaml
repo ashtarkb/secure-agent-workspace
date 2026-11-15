@@ -1,1 +1,7 @@
-users: []
+users:
+- name: perf002
+  profiles:
+  - data-science
+  pruneOnRemove: true
+  webSearch:
+    enabled: false
